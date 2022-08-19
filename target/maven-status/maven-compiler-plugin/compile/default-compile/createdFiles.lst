@@ -1,0 +1,8 @@
+com\akshay\dockerdemo\service\MyUserDetailsService.class
+com\akshay\dockerdemo\util\JwtUtil.class
+com\akshay\dockerdemo\config\WebSecurityConfig.class
+com\akshay\dockerdemo\models\AuthenticationResponse.class
+com\akshay\dockerdemo\controller\HelloController.class
+com\akshay\dockerdemo\DockerdemoApplication.class
+com\akshay\dockerdemo\filter\JwtRequestFilter.class
+com\akshay\dockerdemo\models\AuthenticationRequest.class
